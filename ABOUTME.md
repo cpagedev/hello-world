@@ -1,7 +1,11 @@
 # hello-world
-code basis and foundation, learning git and the github interface.
+Intro and about me!
 
 Hey Everyone, 
+
+A few keypoints about myself and character: I was a medic in the military for six years active duty, deployed a few times and then ran headfirst into a roadblock. Eeventually I had to move on from that career path due to some injuries rendering me a Disabled Veteran as of Oct 2014. I've been circling the drain of medicine without any real career avenue to fall back on, so I chose programming as my focus. 
+
+While I work in this mysterious world of syntax, I spend whatever time I can with my beautiful Wife and adorable little girl. I have two puppies that I strive to be the human they think I am. I play frisbee golf and guitar, still have much to see in this world. Coming back full-force outside of my injuries is a personal journey I'm working towards everyday. By next year I hope to complete my first half marathon. BIG CHANGES! So on with this programming stuff:
 
 As I spent the past few weeks attempting to learn the programming language RUBY...here's what it came down to multiplied a few times by different sources: 
 “Work through our lessons, and you’ll be ready to work as a professional developer!”
